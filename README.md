@@ -9,7 +9,7 @@ The goal in this project was to visually analyze the Gapminder Dataset. This dat
 The final created animated graph:
 
 
-![alt text](https://github.com/Armandinando/Spiced_Academy_Projects/blob/main/Annimated_Plot.gif)
+![alt text](https://github.com/Armandinando/Spiced_Academy_Projects/blob/main/Project_01_%20Visual%20Data%20Analysis/Annimated_Plot.gif)
 ### Project_02: Classification
 ### Project_03: Regression
 ### Project_04: Text Classification
