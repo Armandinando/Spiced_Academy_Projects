@@ -1,6 +1,8 @@
 # Projects: Spiced Academy
 Completed data science and ML projects during SPICED ACADEMY data science bootcamp
 
+![alt text](xxxxx)
+
 ### Project_01: Visual Data Analysis
 The goal in this project was to visually analyze the Gapminder Dataset. This dataset includes the data for each country's population and fertiliy rate during last 200 years. Pandas and Matplotlib libraries were used to visualize the data and creating an animated scatterplot
 ![alt text](https://github.com/Armandinando/Spiced_Academy_Projects/blob/main/Annimated_Plot.gif)
