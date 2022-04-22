@@ -13,7 +13,8 @@ The final created animated graph:
 ### Project_02: Classification
 
 In this project, I investigate the Titanic Dataset with the use of the Python libraries NumPy, Pandas, Matplotlib and Seaborn. a comprehensive data analysis and feature engineering was performed and data was preprocessed for machine learning. Moreover, Random Forest and Logistic Regression models were trained. Accuracy scores were between 78% and 81% and a A k-fold Cross Validation scores around 96%. 
-![alt text](https://github.com/Armandinando/Spiced_Academy_Projects/blob/main/xxxx.png)
+
+![alt text](https://github.com/Armandinando/Spiced_Academy_Projects/blob/main/titanic.jpg)
 
 
 
