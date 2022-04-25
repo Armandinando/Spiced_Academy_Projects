@@ -26,9 +26,10 @@ In this project, I investigated the Titanic Dataset using Python libraries NumPy
 ### Project_03: Regression
 The goal for this project was to build and train a regression model on the Capital Bike Share (Washington, D.C.) data set, in order to predict demand for bicycle rentals at any given hour, based on time and weather. After a detailed EDA and correlation analysis as well as feature engineeering and data preprocessing, linear regression and random forest regressor models were used to predict the number of bikes. a r2 score of 0.98 was achieved using Random Forest Regressor
 
->>>>>>>put  apic here <<<<<<<<
 
+![alt text](https://github.com/Armandinando/Spiced_Academy_Projects/blob/main/capital_bikeshare.jpeg)
 
+[link to the project notebook](xxxxxxxx)
 
 ### Project_04: Text Classification
 
