@@ -43,10 +43,10 @@ image source: Medium.com
 
 
 
-### Project_05: Dashboard
+### Project_05: Dashboard - Postgres, SQL, RDS, and AWS
 
 
-### Project_06: Pipeline
+### Project_06: Pipeline - Docker, MongoDB, and ETL
 ### Project_07: Time Series
 ### Project_08: Data Simulator
 ### Project_09: Deep Learning
