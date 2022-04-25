@@ -47,7 +47,15 @@ image source: Medium.com
 
 
 ### Project_06: Pipeline - Docker, MongoDB, and ETL
-### Project_07: Time Series
+
+
+### Project_07: Time Series Analysis
+The objective in this project was to create a short-term temperature forecast involving time series. AR and ARIMA models with a Walk Forward approach was used. 
+
 ### Project_08: Data Simulator
+
+
 ### Project_09: Deep Learning
+
+
 ### Project_10: Recommender Systems
