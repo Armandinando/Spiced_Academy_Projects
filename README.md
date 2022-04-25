@@ -35,7 +35,9 @@ The goal for this project was to build and train a regression model on the Capit
 
 In this project, i built a text classification model on song lyrics. The task was to predict the artist from a piece of text. python functions were programmed to do the Web Scraping with the help of BeautifulSoup to download song lyrics from artist's url and save only the corpus lyrics as texts files from every single song lyrics url. For this purpose, first, the HTML file containing the lyrics from the website was downloaded as a text file. then hyperlinks of song pages was extracted and the song lyrics were extracted using BeautifulSoup the text were then vectorized using TfidfVectorizer and a classification model (i.e., logistic regression) was trained to predict the artist from a piece of text
 
+![alt text](https://github.com/Armandinando/Spiced_Academy_Projects/blob/main/capital_bikeshare.jpeg)
 
+[link to the project notebook](xxxxxxxx)
 
 
 
