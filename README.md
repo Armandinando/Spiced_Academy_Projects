@@ -29,7 +29,7 @@ The goal for this project was to build and train a regression model on the Capit
 
 ![alt text](https://github.com/Armandinando/Spiced_Academy_Projects/blob/main/capital_bikeshare.jpeg)
 
-[link to the project notebook](xxxxxxxx)
+[link to the project notebook](https://github.com/Armandinando/Spiced_Academy_Projects/blob/main/Project_03:%20Regression/project_03_linear_regression.ipynb)
 
 ### Project_04: Text Classification
 
