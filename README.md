@@ -43,10 +43,10 @@ image source: Medium.com
 
 
 ### Project_05: Dashboard - Postgres, SQL, RDS, and AWS
-
+Coming soon...
 
 ### Project_06: Pipeline - Docker, MongoDB, and ETL
-
+Coming soon...
 
 ### Project_07: Time Series Analysis
 The objective in this project was to create a short-term temperature forecast involving time series. AR and ARIMA models with a Walk Forward approach was used. 
