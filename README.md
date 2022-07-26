@@ -12,7 +12,7 @@ The final created animated graph:
 ![alt text](https://github.com/Armandinando/Spiced_Academy_Projects/blob/main/Project_01_%20Visual%20Data%20Analysis/Annimated_Plot.gif)
 
  
-[link to the project notebook](https://github.com/Armandinando/Spiced_Academy_Projects/blob/main/Project_01_%20Visual%20Data%20Analysis/project_01_visual_data_analysis.ipynb)
+[link to the project notebook](https://github.com/Armandinando/Spiced_Academy_Projects/blob/main/Project_01_%20Visual%20Data%20Analysis/project_01-finished.ipynb)
 
 
 ### Project_02: Classification
