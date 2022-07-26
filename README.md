@@ -38,8 +38,7 @@ In this project, i built a text classification model on song lyrics. The task wa
 ![alt text](https://github.com/Armandinando/Spiced_Academy_Projects/blob/main/text-classificatio.png)
 image source: Medium.com
 
-[link to the project notebook](xxxxxxxx)
-
+[link to the project notebook](https://github.com/Armandinando/Spiced_Academy_Projects/blob/main/Project_04:%20Text%20Classification/project_04_text_classification.ipynb)
 
 
 
