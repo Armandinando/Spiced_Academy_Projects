@@ -45,7 +45,7 @@ image source: Medium.com
 ### Project_05: Dashboard - Postgres, SQL, RDS, and AWS
 Will be uploaded soon...
 
-### Project_06: Pipeline - Docker, MongoDB, and ETL
+### Project_06: Pipeline - Docker, MongoDB, and ETL - Tweet sentiment analysis 
 Will be uploaded soon...
 
 ### Project_07: Time Series Analysis
