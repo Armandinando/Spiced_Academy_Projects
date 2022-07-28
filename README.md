@@ -48,13 +48,14 @@ Coming soon...
 ### Project_06: Pipeline - Docker, MongoDB, and ETL - Tweet sentiment analysis 
 Coming soon...
 
-### Project_07: Time Series Analysis
+### Project_07: Time Series Analysis -Forecasting the Temperature in Berlin
 The objective in this project was to create a short-term temperature forecast involving time series. Main components of the time series data , i.e., Trend, seasonality and remainder (time dependance and randomness) were visualized and modeled. statistical tests are performed such as Augmented Dickey Fuller Test (ADF) and/or Kwiatkowski-Phillips-Schmidt-Shin (KPSS). ARIMA model parameters like p, q, d was determined  by looking at the graphs of  auto-correlation function (ACF) and partial auto-correlation function (PACF). the prediction using linear regression model achieved a test score (r2_score) of 0.90
 
 [link to the project notebook](https://github.com/Armandinando/Spiced_Academy_Projects/blob/main/Project_07:%20Time%20Series/analyzing_time_series_complete-Colab_complete.ipynb)
 
-### Project_08: Data Simulator
-
+### Project_08: Markov simulation: simulating  customer behaviour in a supermarket
+The objective of this project was to predict customer behaviour between aisles in a supermarket, applying Markov Chain modeling and Monte-Carlo simulation.
+after exploratory data analysis (EDA), the transition probabilities of costunmer between the aisles were calculated. afterwards a costumer class was implemented and ran a Markov Chain Monte Carlo (MCMC) simulation for single class customer and subsequently the simulation was extended to multiple costumers 
 
 ### Project_09: Deep Learning
 
