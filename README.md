@@ -55,7 +55,8 @@ The objective in this project was to create a short-term temperature forecast in
 
 ### Project_08: Markov simulation: simulating  customer behaviour in a supermarket
 The objective of this project was to predict customer behaviour between aisles in a supermarket, applying Markov Chain modeling and Monte-Carlo simulation.
-after exploratory data analysis (EDA), the transition probabilities of costunmer between the aisles were calculated. afterwards a costumer class was implemented and ran a Markov Chain Monte Carlo (MCMC) simulation for single class customer and subsequently the simulation was extended to multiple costumers 
+after exploratory data analysis (EDA), the transition probabilities of costunmer between the aisles were calculated. afterwards a costumer class was implemented and ran a Markov Chain Monte Carlo (MCMC) simulation for single class customer and subsequently the simulation was extended to multiple costumers.
+the data used for this project is tabular data indicating where customers spent their time in different weekdays.
 
 ### Project_09: Deep Learning
 
