@@ -50,6 +50,7 @@ Coming soon...
 
 ### Project_07: Time Series Analysis
 The objective in this project was to create a short-term temperature forecast involving time series. Main components of the time series data , i.e., Trend, seasonality and remainder (time dependance and randomness) were visualized and modeled. statistical tests are performed such as Augmented Dickey Fuller Test (ADF) and/or Kwiatkowski-Phillips-Schmidt-Shin (KPSS). ARIMA model parameters like p, q, d was determined  by looking at the graphs of  auto-correlation function (ACF) and partial auto-correlation function (PACF). the prediction using linear regression model achieved a test score (r2_score) of 0.90
+[link to the project notebook](https://github.com/Armandinando/Spiced_Academy_Projects/blob/main/Project_07:%20Time%20Series/analyzing_time_series_complete-Colab_complete.ipynb)
 
 ### Project_08: Data Simulator
 
