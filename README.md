@@ -59,6 +59,7 @@ after exploratory data analysis (EDA), the transition probabilities of costunmer
 the data used for this project is tabular data indicating where customers spent their time in different weekdays.
 
 ### Project_09: Deep Learning
-
+Coming soon...
 
 ### Project_10: Recommender Systems
+Coming soon...
