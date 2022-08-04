@@ -58,6 +58,8 @@ The objective of this project was to predict customer behaviour between aisles i
 after exploratory data analysis (EDA), the transition probabilities of costunmer between the aisles were calculated. afterwards a costumer class was implemented and ran a Markov Chain Monte Carlo (MCMC) simulation for single class customer and subsequently the simulation was extended to multiple costumers.
 the data used for this project is tabular data indicating where customers spent their time in different weekdays.
 
+Coming soon...
+
 ### Project_09: Deep Learning
 Coming soon...
 
